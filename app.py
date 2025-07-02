@@ -1,5 +1,5 @@
 import pandas as pd
-import matplotlib as plt
+import matplotlib.pylot as plt
 import seaborn as sns
 from datetime import datetime
 import streamlit as st
